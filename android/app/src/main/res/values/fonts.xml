@@ -1,0 +1,5 @@
+<resources>
+    <font name="OpenSansRegular" fontPath="./asset/fonts/OpenSans-Regular.ttf'"/>
+    <font name="OpenSansMeduim" fontPath="asset/fonts/OpenSans-Medium.ttf'"/>
+    <font name="OpenSansBold" fontPath="asset/fonts/OpenSans-Bold.ttf'"/>
+</resources>
